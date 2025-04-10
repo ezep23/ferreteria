@@ -12,12 +12,12 @@ Creando un sitio web para una ferretería utilizando javascript para agregarle d
 
 ## Capturas
 
-![App Screenshot](./client/img/screen1.png)
+![App Screenshot](./app/img/screen1.png)
 
-![App Screenshot](./client/img/screen2.png)
+![App Screenshot](./app/img/screen2.png)
 
-![App Screenshot](./client/img/screen3.png)
+![App Screenshot](./app/img/screen3.png)
 
-![App Screenshot](./client/img/screen4.png)
+![App Screenshot](./app/img/screen4.png)
 
-![App Screenshot](./client/img/screen5.png)
+![App Screenshot](./app/img/screen5.png)
